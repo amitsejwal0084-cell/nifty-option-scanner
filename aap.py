@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.secret_key = 'nifty_scanner_secret_key_2025'
 
 API_KEY = "db1y53lzpboz4hnc"
-API_SECRET = "juoejvar0br92vtux1zv"
+API_SECRET = "juoejvar0br92vtuxlzv86w32uwmymfn"
 REDIRECT_URL = "https://nifty-option-scanner.onrender.com/callback"
 
 kite = KiteConnect(api_key=API_KEY)
